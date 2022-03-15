@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-10T23:32:49 IST" name="Suite" finished-at="2022-03-10T23:42:13 IST" duration-ms="564099">
+    <groups>
+    </groups>
+    <test started-at="2022-03-10T23:32:49 IST" name="ChromeTest" finished-at="2022-03-10T23:36:31 IST" duration-ms="221635">
+      <class name="test123.VerifyYourOrders">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:test123.VerifyYourOrders@3e11f9e9]" started-at="2022-03-10T23:33:03 IST" name="launchBrowser" finished-at="2022-03-10T23:33:05 IST" duration-ms="2566" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="createAnObject()[pri:0, instance:test123.VerifyYourOrders@3e11f9e9]" started-at="2022-03-10T23:33:06 IST" name="createAnObject" finished-at="2022-03-10T23:33:06 IST" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnObject -->
+        <test-method is-config="true" signature="launchAplication()[pri:0, instance:test123.VerifyYourOrders@3e11f9e9]" started-at="2022-03-10T23:33:06 IST" name="launchAplication" finished-at="2022-03-10T23:33:51 IST" duration-ms="44762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAplication -->
+        <test-method signature="test()[pri:0, instance:test123.VerifyYourOrders@3e11f9e9]" started-at="2022-03-10T23:33:51 IST" name="test" finished-at="2022-03-10T23:34:50 IST" duration-ms="59541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="signOut(org.testng.ITestResult)[pri:0, instance:test123.VerifyYourOrders@3e11f9e9]" started-at="2022-03-10T23:34:51 IST" name="signOut" finished-at="2022-03-10T23:35:03 IST" duration-ms="12510" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=VerifyYourOrders.test()[pri:0, instance:test123.VerifyYourOrders@3e11f9e9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="clearPomObject()[pri:0, instance:test123.VerifyYourOrders@3e11f9e9]" started-at="2022-03-10T23:35:03 IST" name="clearPomObject" finished-at="2022-03-10T23:35:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearPomObject -->
+        <test-method is-config="true" signature="clearBrowser()[pri:0, instance:test123.VerifyYourOrders@3e11f9e9]" started-at="2022-03-10T23:36:30 IST" name="clearBrowser" finished-at="2022-03-10T23:36:31 IST" duration-ms="758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearBrowser -->
+      </class> <!-- test123.VerifyYourOrders -->
+      <class name="test123.VerifyAllHeaders">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:test123.VerifyAllHeaders@1de5f259]" started-at="2022-03-10T23:33:01 IST" name="launchBrowser" finished-at="2022-03-10T23:33:03 IST" duration-ms="1946" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="createAnObject()[pri:0, instance:test123.VerifyAllHeaders@1de5f259]" started-at="2022-03-10T23:33:06 IST" name="createAnObject" finished-at="2022-03-10T23:33:06 IST" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnObject -->
+        <test-method is-config="true" signature="lainchApplication()[pri:0, instance:test123.VerifyAllHeaders@1de5f259]" started-at="2022-03-10T23:33:06 IST" name="lainchApplication" finished-at="2022-03-10T23:34:03 IST" duration-ms="56997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lainchApplication -->
+        <test-method signature="test()[pri:0, instance:test123.VerifyAllHeaders@1de5f259]" started-at="2022-03-10T23:34:03 IST" name="test" finished-at="2022-03-10T23:36:11 IST" duration-ms="128162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="signOut(org.testng.ITestResult)[pri:0, instance:test123.VerifyAllHeaders@1de5f259]" started-at="2022-03-10T23:36:11 IST" name="signOut" finished-at="2022-03-10T23:36:23 IST" duration-ms="11649" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=VerifyAllHeaders.test()[pri:0, instance:test123.VerifyAllHeaders@1de5f259] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="clearPomObject()[pri:0, instance:test123.VerifyAllHeaders@1de5f259]" started-at="2022-03-10T23:36:23 IST" name="clearPomObject" finished-at="2022-03-10T23:36:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearPomObject -->
+        <test-method is-config="true" signature="clearBrowser()[pri:0, instance:test123.VerifyAllHeaders@1de5f259]" started-at="2022-03-10T23:36:29 IST" name="clearBrowser" finished-at="2022-03-10T23:36:30 IST" duration-ms="798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearBrowser -->
+      </class> <!-- test123.VerifyAllHeaders -->
+      <class name="test123.VerifyAddToCart">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:test123.VerifyAddToCart@3a44431a]" started-at="2022-03-10T23:32:59 IST" name="launchBrowser" finished-at="2022-03-10T23:33:01 IST" duration-ms="1940" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="createAnObject()[pri:0, instance:test123.VerifyAddToCart@3a44431a]" started-at="2022-03-10T23:33:06 IST" name="createAnObject" finished-at="2022-03-10T23:33:06 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnObject -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test123.VerifyAddToCart@3a44431a]" started-at="2022-03-10T23:33:06 IST" name="beforeMethod" finished-at="2022-03-10T23:34:03 IST" duration-ms="57298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test()[pri:0, instance:test123.VerifyAddToCart@3a44431a]" started-at="2022-03-10T23:34:03 IST" name="test" finished-at="2022-03-10T23:35:37 IST" duration-ms="93695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="signOut(org.testng.ITestResult)[pri:0, instance:test123.VerifyAddToCart@3a44431a]" started-at="2022-03-10T23:35:37 IST" name="signOut" finished-at="2022-03-10T23:35:42 IST" duration-ms="5035" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=VerifyAddToCart.test()[pri:0, instance:test123.VerifyAddToCart@3a44431a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="ClearPomObject()[pri:0, instance:test123.VerifyAddToCart@3a44431a]" started-at="2022-03-10T23:35:42 IST" name="ClearPomObject" finished-at="2022-03-10T23:35:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearPomObject -->
+        <test-method is-config="true" signature="clearBrowser()[pri:0, instance:test123.VerifyAddToCart@3a44431a]" started-at="2022-03-10T23:36:28 IST" name="clearBrowser" finished-at="2022-03-10T23:36:29 IST" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearBrowser -->
+      </class> <!-- test123.VerifyAddToCart -->
+      <class name="test123.VerfyAccountsAndList">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:test123.VerfyAccountsAndList@6404f418]" started-at="2022-03-10T23:32:49 IST" name="launchBrowser" finished-at="2022-03-10T23:32:59 IST" duration-ms="10102" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="createAnObject()[pri:0, instance:test123.VerfyAccountsAndList@6404f418]" started-at="2022-03-10T23:33:06 IST" name="createAnObject" finished-at="2022-03-10T23:33:06 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnObject -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:test123.VerfyAccountsAndList@6404f418]" started-at="2022-03-10T23:33:06 IST" name="loginToApplication" finished-at="2022-03-10T23:34:03 IST" duration-ms="56800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="test()[pri:0, instance:test123.VerfyAccountsAndList@6404f418]" started-at="2022-03-10T23:34:03 IST" name="test" finished-at="2022-03-10T23:36:15 IST" duration-ms="132496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="signOut(org.testng.ITestResult)[pri:0, instance:test123.VerfyAccountsAndList@6404f418]" started-at="2022-03-10T23:36:15 IST" name="signOut" finished-at="2022-03-10T23:36:23 IST" duration-ms="8058" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=VerfyAccountsAndList.test()[pri:0, instance:test123.VerfyAccountsAndList@6404f418] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="clearPomClassObject()[pri:0, instance:test123.VerfyAccountsAndList@6404f418]" started-at="2022-03-10T23:36:23 IST" name="clearPomClassObject" finished-at="2022-03-10T23:36:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearPomClassObject -->
+        <test-method is-config="true" signature="clearBrowser()[pri:0, instance:test123.VerfyAccountsAndList@6404f418]" started-at="2022-03-10T23:36:23 IST" name="clearBrowser" finished-at="2022-03-10T23:36:28 IST" duration-ms="4781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearBrowser -->
+      </class> <!-- test123.VerfyAccountsAndList -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2022-03-10T23:36:31 IST" name="EdgeTest" finished-at="2022-03-10T23:42:13 IST" duration-ms="342359">
+      <class name="test123.VerifyYourOrders">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:test123.VerifyYourOrders@4d5650ae]" started-at="2022-03-10T23:37:00 IST" name="launchBrowser" finished-at="2022-03-10T23:37:05 IST" duration-ms="4227" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="createAnObject()[pri:0, instance:test123.VerifyYourOrders@4d5650ae]" started-at="2022-03-10T23:37:05 IST" name="createAnObject" finished-at="2022-03-10T23:37:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnObject -->
+        <test-method is-config="true" signature="launchAplication()[pri:0, instance:test123.VerifyYourOrders@4d5650ae]" started-at="2022-03-10T23:37:05 IST" name="launchAplication" finished-at="2022-03-10T23:38:17 IST" duration-ms="72795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAplication -->
+        <test-method signature="test()[pri:0, instance:test123.VerifyYourOrders@4d5650ae]" started-at="2022-03-10T23:38:17 IST" name="test" finished-at="2022-03-10T23:40:41 IST" duration-ms="143835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="signOut(org.testng.ITestResult)[pri:0, instance:test123.VerifyYourOrders@4d5650ae]" started-at="2022-03-10T23:40:41 IST" name="signOut" finished-at="2022-03-10T23:41:02 IST" duration-ms="20411" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=VerifyYourOrders.test()[pri:0, instance:test123.VerifyYourOrders@4d5650ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="clearPomObject()[pri:0, instance:test123.VerifyYourOrders@4d5650ae]" started-at="2022-03-10T23:41:02 IST" name="clearPomObject" finished-at="2022-03-10T23:41:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearPomObject -->
+        <test-method is-config="true" signature="clearBrowser()[pri:0, instance:test123.VerifyYourOrders@4d5650ae]" started-at="2022-03-10T23:42:12 IST" name="clearBrowser" finished-at="2022-03-10T23:42:13 IST" duration-ms="1079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearBrowser -->
+      </class> <!-- test123.VerifyYourOrders -->
+      <class name="test123.VerifyAllHeaders">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:test123.VerifyAllHeaders@51c668e3]" started-at="2022-03-10T23:36:56 IST" name="launchBrowser" finished-at="2022-03-10T23:37:00 IST" duration-ms="4490" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="createAnObject()[pri:0, instance:test123.VerifyAllHeaders@51c668e3]" started-at="2022-03-10T23:37:05 IST" name="createAnObject" finished-at="2022-03-10T23:37:05 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnObject -->
+        <test-method is-config="true" signature="lainchApplication()[pri:0, instance:test123.VerifyAllHeaders@51c668e3]" started-at="2022-03-10T23:37:05 IST" name="lainchApplication" finished-at="2022-03-10T23:38:30 IST" duration-ms="85751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lainchApplication -->
+        <test-method signature="test()[pri:0, instance:test123.VerifyAllHeaders@51c668e3]" started-at="2022-03-10T23:38:30 IST" name="test" finished-at="2022-03-10T23:41:56 IST" duration-ms="205696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="signOut(org.testng.ITestResult)[pri:0, instance:test123.VerifyAllHeaders@51c668e3]" started-at="2022-03-10T23:41:56 IST" name="signOut" finished-at="2022-03-10T23:42:06 IST" duration-ms="9856" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=VerifyAllHeaders.test()[pri:0, instance:test123.VerifyAllHeaders@51c668e3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="clearPomObject()[pri:0, instance:test123.VerifyAllHeaders@51c668e3]" started-at="2022-03-10T23:42:06 IST" name="clearPomObject" finished-at="2022-03-10T23:42:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearPomObject -->
+        <test-method is-config="true" signature="clearBrowser()[pri:0, instance:test123.VerifyAllHeaders@51c668e3]" started-at="2022-03-10T23:42:10 IST" name="clearBrowser" finished-at="2022-03-10T23:42:12 IST" duration-ms="1747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearBrowser -->
+      </class> <!-- test123.VerifyAllHeaders -->
+      <class name="test123.VerifyAddToCart">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:test123.VerifyAddToCart@2e3967ea]" started-at="2022-03-10T23:36:52 IST" name="launchBrowser" finished-at="2022-03-10T23:36:56 IST" duration-ms="3356" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="createAnObject()[pri:0, instance:test123.VerifyAddToCart@2e3967ea]" started-at="2022-03-10T23:37:05 IST" name="createAnObject" finished-at="2022-03-10T23:37:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnObject -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test123.VerifyAddToCart@2e3967ea]" started-at="2022-03-10T23:37:05 IST" name="beforeMethod" finished-at="2022-03-10T23:38:30 IST" duration-ms="85271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test()[pri:0, instance:test123.VerifyAddToCart@2e3967ea]" started-at="2022-03-10T23:38:30 IST" name="test" finished-at="2022-03-10T23:41:25 IST" duration-ms="174820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="signOut(org.testng.ITestResult)[pri:0, instance:test123.VerifyAddToCart@2e3967ea]" started-at="2022-03-10T23:41:25 IST" name="signOut" finished-at="2022-03-10T23:41:35 IST" duration-ms="9993" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=VerifyAddToCart.test()[pri:0, instance:test123.VerifyAddToCart@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="ClearPomObject()[pri:0, instance:test123.VerifyAddToCart@2e3967ea]" started-at="2022-03-10T23:41:35 IST" name="ClearPomObject" finished-at="2022-03-10T23:41:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearPomObject -->
+        <test-method is-config="true" signature="clearBrowser()[pri:0, instance:test123.VerifyAddToCart@2e3967ea]" started-at="2022-03-10T23:42:07 IST" name="clearBrowser" finished-at="2022-03-10T23:42:10 IST" duration-ms="2791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearBrowser -->
+      </class> <!-- test123.VerifyAddToCart -->
+      <class name="test123.VerfyAccountsAndList">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:test123.VerfyAccountsAndList@70e9c95d]" started-at="2022-03-10T23:36:31 IST" name="launchBrowser" finished-at="2022-03-10T23:36:52 IST" duration-ms="21777" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="createAnObject()[pri:0, instance:test123.VerfyAccountsAndList@70e9c95d]" started-at="2022-03-10T23:37:05 IST" name="createAnObject" finished-at="2022-03-10T23:37:05 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnObject -->
+        <test-method is-config="true" signature="loginToApplication()[pri:0, instance:test123.VerfyAccountsAndList@70e9c95d]" started-at="2022-03-10T23:37:05 IST" name="loginToApplication" finished-at="2022-03-10T23:38:30 IST" duration-ms="85313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method signature="test()[pri:0, instance:test123.VerfyAccountsAndList@70e9c95d]" started-at="2022-03-10T23:38:30 IST" name="test" finished-at="2022-03-10T23:41:01 IST" duration-ms="151261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="signOut(org.testng.ITestResult)[pri:0, instance:test123.VerfyAccountsAndList@70e9c95d]" started-at="2022-03-10T23:41:01 IST" name="signOut" finished-at="2022-03-10T23:41:14 IST" duration-ms="12905" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=VerfyAccountsAndList.test()[pri:0, instance:test123.VerfyAccountsAndList@70e9c95d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="clearPomClassObject()[pri:0, instance:test123.VerfyAccountsAndList@70e9c95d]" started-at="2022-03-10T23:41:14 IST" name="clearPomClassObject" finished-at="2022-03-10T23:41:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearPomClassObject -->
+        <test-method is-config="true" signature="clearBrowser()[pri:0, instance:test123.VerfyAccountsAndList@70e9c95d]" started-at="2022-03-10T23:42:06 IST" name="clearBrowser" finished-at="2022-03-10T23:42:07 IST" duration-ms="1533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearBrowser -->
+      </class> <!-- test123.VerfyAccountsAndList -->
+    </test> <!-- EdgeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
